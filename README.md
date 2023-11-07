@@ -1,6 +1,6 @@
 # Financial News Sentiment Analysis
 
-This Python script leverages web scraping techniques using BeautifulSoup and performs sentiment analysis on financial news headlines sourced from Finviz for selected stock tickers—AMZN, TSLA, and GOOG. The sentiment analysis is conducted utilizing the NLTK VADER (Valence Aware Dictionary and sEntiment Reasoner) tool.
+This Python script leverages web scraping techniques using BeautifulSoup and performs sentiment analysis on financial news headlines sourced from Finviz for selected stock tickers—AMZN, TSLA, and GOOG. The sentiment analysis is conducted utilizing the NLTK VADER (Valence Aware Dictionary and Sentiment Reasoner) tool.
 
 ## Overview
 
